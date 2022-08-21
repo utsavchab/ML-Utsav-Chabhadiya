@@ -1,8 +1,8 @@
-# ML-WOC-Utsav-Chabhadiya_21je1011
-CyberLabs WOC ML Division - ML BOOTCAMP
+# ML - Utsav_Chabhadiya
+
 Created by UTSAV CHABHADIYA
 
-This project contains some basic libraries of Machine Learning algoritms, such as:
+This project contains 6 Modules of Machine Learning Models, such as:
 1) Linear Regression
 2) Polynomial Regression
 3) Logistic Regression
