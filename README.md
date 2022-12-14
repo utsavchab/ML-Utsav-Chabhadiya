@@ -1,5 +1,4 @@
-# ML - Utsav_Chabhadiya
-
+# Machine Learning Modules
 Created by UTSAV CHABHADIYA
 
 This project contains 6 Modules of Machine Learning Models, such as:
